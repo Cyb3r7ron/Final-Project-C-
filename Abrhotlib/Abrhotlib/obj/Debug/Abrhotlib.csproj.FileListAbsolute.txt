@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Abrhotlib\Abrhotlib\bin\Debug\Abrhotlib.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Abrhotlib\Abrhotlib\bin\Debug\Abrhotlib.exe
+c:\users\user\documents\visual studio 2015\Projects\Abrhotlib\Abrhotlib\bin\Debug\Abrhotlib.pdb
+c:\users\user\documents\visual studio 2015\Projects\Abrhotlib\Abrhotlib\obj\Debug\Abrhotlib.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Abrhotlib\Abrhotlib\obj\Debug\Abrhotlib.exe
+c:\users\user\documents\visual studio 2015\Projects\Abrhotlib\Abrhotlib\obj\Debug\Abrhotlib.pdb
